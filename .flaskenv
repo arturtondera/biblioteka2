@@ -1,0 +1,2 @@
+FLASK_APP=biblioteka2.py
+FLASK_ENV=development
